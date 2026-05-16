@@ -403,64 +403,13 @@ The paper uses task-aligned explainability outputs:
 
 These visualizations help verify whether the model is focusing on animal regions instead of irrelevant background patterns.
 
----
 
-## Citation
 
-If you use this work, please cite:
 
-```bibtex
-@article{yadlapalli2026resourceaware,
-  title={Resource Aware Multi Branch Feature Fusion for UAV Wildlife Monitoring},
-  author={Yadlapalli, Parthiva and Raj, Rishi and Pruthviraja, Dayananda},
-  journal={IEEE Access},
-  year={2026},
-  note={Manuscript under review / preprint}
-}
-```
 
-Update the citation once the final publication details are available.
 
----
 
-## Authors
 
-- **Parthiva Yadlapalli**  
-  Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education, India
-
-- **Rishi Raj**  
-  Indian Institute of Management Visakhapatnam, India
-
-- **Dayananda Pruthviraja**  
-  Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education, India
-
----
-
-## License
-
-Add your preferred license here. Common choices are:
-
-- MIT License
-- Apache License 2.0
-- GPLv3
-
-Example:
-
-```text
-This project is released under the MIT License. See LICENSE for details.
-```
-
----
-
-## Contact
-
-For questions or collaboration, please contact:
-
-```text
-parthiva.edu@gmail.com
-```
-
----
 
 ## Acknowledgement
 
