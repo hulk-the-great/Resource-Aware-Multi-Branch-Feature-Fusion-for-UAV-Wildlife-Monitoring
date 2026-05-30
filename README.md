@@ -4,7 +4,7 @@
 
 This repository accompanies the paper **"Resource Aware Multi Branch Feature Fusion for UAV Wildlife Monitoring"**. The work proposes a lightweight UAV-ready vision framework for wildlife classification and tracking under strict onboard constraints such as memory, latency, and power.
 
-The main idea is to learn an efficient internal network structure during training and then deploy a **static fused model** at inference time. This avoids runtime controller overhead while keeping the model suitable for real-time UAV and edge-device deployment.
+The main idea is to learn an efficient internal network structure during training and then deploy a **static fused model** at inference time. This avoids runtime controller overhead while keeping the model suitable for real-time UAV and edge-device deployment. 
 
 ---
 
