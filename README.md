@@ -9,7 +9,7 @@ The main idea is to learn an efficient internal network structure during trainin
 ---
 
 ## Overview
-
+  
 UAV-based wildlife monitoring is useful for ecological surveys, animal activity analysis, species recognition, and animal tracking. However, UAV platforms usually have limited compute, memory, and battery power. Large vision models can perform well, but they are often too heavy for onboard deployment.
 
 This project introduces a compact backbone called **RepBlockMask**, trained with a lightweight reinforcement-learning controller called **Coach**. During training, the Coach selects efficient branch configurations using **Proximal Policy Optimization (PPO)**. After training, the selected configuration is structurally fused into a normal convolutional network for fast and predictable inference.
