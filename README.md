@@ -157,8 +157,8 @@ Both classification datasets share the same backbone and the same selected confi
 
 | Dataset | Accuracy | Parameters | FLOPs |
 |---|---:|---:|---:|
-| Sheep Activity | 0.934 | 0.222M | *(fill from ONNX)* |
-| NESTLER | 0.924 | 0.222M | *(fill from ONNX)* |
+| Sheep Activity | 0.934 | 0.222M | 
+| NESTLER | 0.924 | 0.222M | 
 
 ### Single-Object Tracking: VisDrone-SOT2019
 
